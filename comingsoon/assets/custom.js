@@ -7,4 +7,8 @@
 
   setTimeout(function () {
     $('.loader_bg').fadeToggle();
+  }, 8500);
+
+  setTimeout(function () {
+    $('.mainloader_bg').fadeToggle();
   }, 3000);
