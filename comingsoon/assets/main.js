@@ -37,3 +37,4 @@ function tick () {
     document.querySelector('.countdown').innerText = time;
   }
 }
+
